@@ -37,6 +37,8 @@ Ruby on Rails的入门教程、快速查询手册和项目开发实例。
 
 ### 友情链接
 
+[Padrino学习笔记](https://github.com/chinakr/padrino-note "Study notes for Padrino web framework")
+
 [web2py官网](http://web2py.com "Python轻量级全功能Web开发框架")
 
 [golang官网](http://golang.org "编程体验最接近动态语言的静态语言")
