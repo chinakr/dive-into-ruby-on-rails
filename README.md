@@ -20,6 +20,8 @@ Ruby on Rails的入门教程、快速查询手册和项目开发实例。
 
 ### Ruby快速入门
 
+[如何学习Ruby](ruby/how_to_learn_ruby.md)
+
 ### Rails快速入门
 
 
