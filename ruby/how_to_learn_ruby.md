@@ -17,3 +17,5 @@
 [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)：充满幽默感的Ruby教程。
 
 [Ruby程式语言入门](http://ihower.tw/rails4/ruby.html)：台湾Ruby社区大牛ihower撰写的Ruby入门教程。
+
+[Ruby风格指南](https://ruby-china.org/wiki/coding-style)：“The Ruby Style Guide”的中文版。
